@@ -1,0 +1,23 @@
+.principal{
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    text-align: center;
+}
+
+.subprincipal{
+    color:darkcyan;
+    font-size: 40px;
+    text-align: center;
+}
+
+.texto{
+    color: purple;
+    font-size: 25px;
+    text-align: center;
+}
+
+.titulo{
+    color: brown;
+    font-size: 30px;
+    text-align: center;
+}
